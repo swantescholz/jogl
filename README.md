@@ -1,4 +1,4 @@
-JOGL
+JOGL - My personal Java OpenGL Engine
 ====
 
 Setup
